@@ -10,7 +10,7 @@
 
 - 📝 Inbox me at <a href="https://www.facebook.com/hieunguyenduongtrung"> my Facebook</a>. I'll give you a reply as soon as posible
 
-- 📫 Or you can shoot me an email at <a href="mailto:nduongtrunghieu@gmail.com">mobil.hieunguyenduong@gmail.com</a>
+- 📫 Or you can shoot me an email at <a href="mailto:nduongtrunghieu@gmail.com">nduongtrunghieu@gmail.com</a>
 
 - 💬 Feel free to reach out to me for some interesting discussion about **Technology stuff, Game, Movie, Anime, Photograhy**
 
