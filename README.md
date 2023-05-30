@@ -1,16 +1,16 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome to my profile, wish you peace and luck </h2>
-<h1 align="center">Hi 👋, my name is Nguyen Duong Trung Hieu</h1>
+<h1 align="center">👋 My name is Nguyen Duong Trung Hieu</h1>
 <h3 align="center">I'm currently undergraduating as a Software Engineering student at UIT(VNUHCM)</h3>
 
 <div align="center">
 <img src="https://github.com/hieundt/hieundt/blob/main/coding%20cat%20gif.gif" alt="codingcat" width="500" height="500" />
 </div>
 
-- 🌱 I like to explore new technologies **Dart/Flutter, Kotlin, JavaScript, TypeScript, NodeJs, C#, .NET, etc**
+- 🌱 I like to explore new technologies **Dart/Flutter, Kotlin, JavaScript, TypeScript, etc**
 
 - 📝 Inbox me at <a href="https://www.facebook.com/hieunguyenduongtrung"> my Facebook</a>. I'll give you a reply as soon as posible
 
-- 📫 Or you can shoot me an email at <a href="mailto:mobil.hieunguyenduong@gmail.com">mobil.hieunguyenduong@gmail.com</a>
+- 📫 Or you can shoot me an email at <a href="mailto:nduongtrunghieu@gmail.com">mobil.hieunguyenduong@gmail.com</a>
 
 - 💬 Feel free to reach out to me for some interesting discussion about **Technology stuff, Game, Movie, Anime, Photograhy**
 
