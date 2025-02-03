@@ -24,7 +24,7 @@ I am a Software Engineering student at University of Information Technology - VN
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="SolarLeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SolarSolarLeo&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="SolarLeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SolarLeo&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   </a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SolarLeo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SolarLeo" height="192px"/>
