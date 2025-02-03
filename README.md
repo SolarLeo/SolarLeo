@@ -1,56 +1,53 @@
-# Hi there 👋, Leo here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+# Hi there 👋, Leo here.
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+&#x20;
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+##  ***About me***
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+I am a Software Engineering student at University of Information Technology - VNUHCM (UIT). My main expertise lies in the JavaScript ecosystem, including React.js, Express, NestJS, and SQL databases such as PostgreSQL.
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- **I am interested in Web Development, Software Development, AI Prompt Engineering, Cloud Services, DevOps, and Security**
 
-__Check out my GitHub repository:__
+* 🌱 I’m currently learning and working on web development.
 
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+* 👯️ I’m open for freelance and company opportunities.
 
+* ✔ Ask me about anything related to JavaScript, backend development, and software engineering!
 
-<h2>👀 My github Stats</h2>
+* Outside tech, 📚 I enjoy reading, 🎨 sketching, 🎵 listening to music, and 🌴 exploring nature.
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
+* 💌 Reach out to me at: [your.email@example.com](mailto:your.email@example.com)
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+* 👤 Connect with me on LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
+---
 
-Date: 18/11/2021
+## 🎡 My GitHub Repositories
+
+---
+
+## 📊 Github Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Leo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Leo&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Leo" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+## ⚡ Recent GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Leo">
+    <img alt="Leo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Leo&custom_title=Leo's%20Contribution%20Graph&theme=react-dark" />
+  </a>
+</p>
+
+---
+
+Credits: Leo
+
+Date: [Insert Date Here]
