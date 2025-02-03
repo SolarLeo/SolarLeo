@@ -1,4 +1,4 @@
-# Hi there 👋, SolarLeo here.
+# Hi there 👋, Leo here.
 
 &#x20;
 
@@ -19,6 +19,25 @@ I am a Software Engineering student at University of Information Technology - VN
 * 💌 Reach out to me at: [nduongtrunghieu@gmail.com](mailto:nduongtrunghieu@gmail.com)
 
 * 👤 Connect with me on LinkedIn: [https://www.linkedin.com/in/nduongtrunghieu/](https://www.linkedin.com/in/nduongtrunghieu/)
+
+---
+
+## 🚀 Tech Stack that I know
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Rust-orange?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/Code-HTML-red?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Database-SQL-lightblue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/OS-Linux-green?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Framework-React.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-blue?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Version Control-Git-red?style=for-the-badge&logo=git" />
+</p>
 
 ---
 
