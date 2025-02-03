@@ -1,4 +1,4 @@
-# Hi there 👋, Leo here.
+# Hi there 👋, SolarLeo here.
 
 &#x20;
 
@@ -14,15 +14,9 @@ I am a Software Engineering student at University of Information Technology - VN
 
 * ✔ Ask me about anything related to JavaScript, backend development, and software engineering!
 
-* Outside tech, 📚 I enjoy reading, 🎨 sketching, 🎵 listening to music, and 🌴 exploring nature.
+* 💌 Reach out to me at: [nduongtrunghieu@gmail.com](mailto:nduongtrunghieu@gmail.com)
 
-* 💌 Reach out to me at: [your.email@example.com](mailto:your.email@example.com)
-
-* 👤 Connect with me on LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-## 🎡 My GitHub Repositories
+* 👤 Connect with me on LinkedIn: [https://www.linkedin.com/in/nduongtrunghieu/](https://www.linkedin.com/in/nduongtrunghieu/)
 
 ---
 
@@ -30,10 +24,10 @@ I am a Software Engineering student at University of Information Technology - VN
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Leo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Leo&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="SolarLeo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SolarSolarLeo&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Leo" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SolarLeo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SolarLeo" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
@@ -41,13 +35,13 @@ I am a Software Engineering student at University of Information Technology - VN
 ## ⚡ Recent GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Leo">
-    <img alt="Leo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Leo&custom_title=Leo's%20Contribution%20Graph&theme=react-dark" />
+  <a href="https://github.com/SolarLeo">
+    <img alt="SolarLeo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SolarLeo&custom_title=SolarLeo's%20Contribution%20Graph&theme=react-dark" />
   </a>
 </p>
 
 ---
 
-Credits: Leo
+Credits: SolarLeo
 
 Date: [Insert Date Here]
